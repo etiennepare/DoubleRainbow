@@ -16,6 +16,7 @@ public class HelloGitEtienne {
      */
     public static void main(String[] args) {
         System.out.println("Bonjour <prenom>!");
+        System.out.println("HEY! Enforme ? Ouin PAS PIRE");
     }
     
 }
